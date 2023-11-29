@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "symbol": "spent",
+    "content": "Coca",
+    "date": "3 set. 2023 a la(s) 15:23",
+    "owner": "Mauro Restrepo",
+    "spent": "1000.00"
+  },
+  {
+    "id": 2,
+    "symbol": "spent",
+    "content": "Carne",
+    "date": "3 set. 2023 a la(s) 15:23",
+    "owner": "Anthony Mallada",
+    "spent": "60.00"
+  },
+  {
+    "id": 3,
+    "symbol": "spent",
+    "content": "Postre",
+    "date": "5 set. 2023 a la(s) 09:30",
+    "owner": "Camilo Ruiz",
+    "spent": "520.00"
+  },
+  {
+    "id": 4,
+    "symbol": "spent",
+    "content": "Picada",
+    "date": "5 set. 2023 a la(s) 09:30",
+    "owner": "Sofia Rodriguez",
+    "spent": "210.00"
+  },
+  {
+    "id": 5,
+    "symbol": "spent",
+    "content": "Nafta",
+    "date": "5 set. 2023 a la(s) 09:30",
+    "owner": "Giuliana Ricco",
+    "spent": "130.00"
+  },
+  {
+    "id": 6,
+    "symbol": "spent",
+    "content": "Dulces",
+    "date": "5 set. 2023 a la(s) 09:30",
+    "owner": "Victor Diaz",
+    "spent": "100.00"
+  },
+  {
+    "id": 7,
+    "symbol": "spent",
+    "content": "Lenia",
+    "date": "5 set. 2023 a la(s) 09:30",
+    "owner": "Lucia De Los Santos",
+    "spent": "10.00"
+  },
+  {
+    "id": 8,
+    "symbol": "spent",
+    "content": "Carbon",
+    "date": "5 set. 2023 a la(s) 09:30",
+    "owner": "Camila Perez",
+    "spent": "50.00"
+  },
+  {
+    "id": 9,
+    "symbol": "spent",
+    "content": "Carbon2",
+    "date": "5 set. 2023 a la(s) 09:30",
+    "owner": "Bruno Lopez",
+    "spent": "300.00"
+  },
+  {
+    "id": 10,
+    "symbol": "spent",
+    "content": "Carbon4",
+    "date": "5 set. 2023 a la(s) 09:30",
+    "owner": "Dario Rodriguez",
+    "spent": "200.00"
+  }
+]

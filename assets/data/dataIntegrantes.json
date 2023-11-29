@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "symbol": "imageOne",
+    "content": "Mauro Restrepo",
+    "monto": "$ 100.00"
+  },
+  {
+    "id": 2,
+    "symbol": "imageFour",
+    "content": "Anna Smith",
+    "monto": "$ 20.00"
+  },
+  {
+    "id": 3,
+    "symbol": "imageFive",
+    "content": "Laura Pérez",
+    "monto": "$ 10.00"
+  },
+  {
+    "id": 4,
+    "symbol": "imageSix",
+    "content": "David Johnson",
+    "monto": "$ 50.00"
+  },
+  {
+    "id": 5,
+    "symbol": "imageSeven",
+    "content": "Carlos Rodriguez",
+    "monto": "$ 900.00"
+  },
+  {
+  "id": 6,
+  "symbol": "imageFour",
+  "content": "Anna Smith",
+  "monto": "$ 400.00"
+  },
+  {
+    "id": 7,
+    "symbol": "imageFive",
+    "content": "Laura Pérez",
+    "monto": "$ 400.00"
+  },
+  {
+    "id": 8,
+    "symbol": "imageSix",
+    "content": "David Johnson",
+    "monto": "$ 200.00"
+  }
+]

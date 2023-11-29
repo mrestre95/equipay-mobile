@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "Equipay",
+    "slug": "my-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/EquiPay__1_-removebg-preview.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff",
+      "autoHide": 5000 
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0,
+      "useClassicUpdates": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0b27d5ac-0923-44dc-a4d1-8dff6c89bf45"
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "symbol": "food",
+    "content": "Comida"
+  },
+  {
+    "id": 2,
+    "symbol": "airplane",
+    "content": "Viaje"
+  },
+  {
+    "id": 3,
+    "symbol": "fuel",
+    "content": "Combustible"
+  },
+  {
+    "id": 4,
+    "symbol": "home",
+    "content": "Alojamiento"
+  },
+  {
+    "id": 5,
+    "symbol": "train-car",
+    "content": "Transporte"
+  },
+  {
+    "id": 6,
+    "symbol": "clipboard-edit",
+    "content": "Otros"
+  }
+]

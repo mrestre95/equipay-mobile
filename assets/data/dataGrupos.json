@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "key": 1,
+    "symbol": "imageOne",
+    "content": "Grupo 1",
+    "date": "Creado 3 set. 2022"
+  },
+  {
+    "id": 2,
+    "key": 2,
+    "symbol": "imageFour",
+    "content": "Grupo 2",
+    "date": "Creado 4 set. 2023"
+  },
+  {
+    "id": 3,
+    "key": 3,
+    "symbol": "imageFive",
+    "content": "Amigos",
+    "date": "Creado 5 set. 2023"
+  },
+  {
+    "id": 4,
+    "key": 4,
+    "symbol": "imageSix",
+    "content": "Asado",
+    "date": "Creado 6 set. 2023"
+  },
+  {
+    "id": 5,
+    "key": 5,
+    "symbol": "imageSeven",
+    "content": "Buenos Aires",
+    "date": "Creado 7 set. 2023"
+  },
+  {
+    "id": 6,
+    "key": 6,
+    "symbol": "imageFour",
+    "content": "Colombia",
+    "date": "Creado 4 set. 2023"
+  },
+  {
+    "id": 7,
+    "key": 7,
+    "symbol": "imageFive",
+    "content": "Cumple",
+    "date": "Creado 5 set. 2023"
+  },
+  {
+    "id": 8,
+    "key": 8,
+    "symbol": "imageSix",
+    "content": "Despedida",
+    "date": "Creado 6 set. 2023"
+  }
+]

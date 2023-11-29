@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "symbol": "imageOne",
+    "content": "Recibiste un pago de Luis Fernandez",
+    "date": "3 set. 2023 a la(s) 15:23"
+  },
+  {
+    "id": 2,
+    "symbol": "imageFour",
+    "content": "Nuevo mensaje de Anna Smith",
+    "date": "4 set. 2023 a la(s) 10:45"
+  },
+  {
+    "id": 3,
+    "symbol": "imageFive",
+    "content": "Actualización de estado de Laura Pérez",
+    "date": "5 set. 2023 a la(s) 09:30"
+  },
+  {
+    "id": 4,
+    "symbol": "imageSix",
+    "content": "Recibiste un pago de David Johnson",
+    "date": "6 set. 2023 a la(s) 14:15"
+  },
+  {
+    "id": 5,
+    "symbol": "imageSeven",
+    "content": "Nuevo mensaje de Carlos Rodríguez",
+    "date": "7 set. 2023 a la(s) 16:00"
+  },
+  {
+    "id": 6,
+    "symbol": "imageEight",
+    "content": "Actualización de estado de Maria García",
+    "date": "8 set. 2023 a la(s) 11:20"
+  },
+  {
+    "id": 7,
+    "symbol": "imageOne",
+    "content": "Recibiste un pago de Sandra Martinez",
+    "date": "9 set. 2023 a la(s) 13:45"
+  },
+  {
+    "id": 8,
+    "symbol": "imageFive",
+    "content": "Nuevo mensaje de Patricia Brown",
+    "date": "10 set. 2023 a la(s) 09:10"
+  },
+  {
+    "id": 9,
+    "symbol": "imageThree",
+    "content": "Actualización de estado de Juan López",
+    "date": "11 set. 2023 a la(s) 17:30"
+  },
+  {
+    "id": 10,
+    "symbol": "imageOne",
+    "content": "Recibiste un pago de Laura Wilson",
+    "date": "12 set. 2023 a la(s) 14:55"
+  },
+  {
+    "id": 11,
+    "symbol": "imageFive",
+    "content": "Nuevo mensaje de Kevin White",
+    "date": "13 set. 2023 a la(s) 08:40"
+  },
+  {
+    "id": 12,
+    "symbol": "imageThree",
+    "content": "Actualización de estado de Oscar Smith",
+    "date": "14 set. 2023 a la(s) 12:20"
+  },
+  {
+    "id": 13,
+    "symbol": "imageSix",
+    "content": "Recibiste un pago de Ana Davis",
+    "date": "15 set. 2023 a la(s) 16:25"
+  },
+  {
+    "id": 14,
+    "symbol": "imageTwo",
+    "content": "Nuevo mensaje de Carmen Perez",
+    "date": "16 set. 2023 a la(s) 09:15"
+  },
+  {
+    "id": 15,
+    "symbol": "imageThree",
+    "content": "Actualización de estado de Pedro González",
+    "date": "17 set. 2023 a la(s) 18:00"
+  },
+  {
+    "id": 16,
+    "symbol": "imageSeven",
+    "content": "Recibiste un pago de Javier Martinez",
+    "date": "18 set. 2023 a la(s) 13:20"
+  },
+  {
+    "id": 17,
+    "symbol": "imageEight",
+    "content": "Nuevo mensaje de Julia Rodriguez",
+    "date": "19 set. 2023 a la(s) 09:50"
+  },
+  {
+    "id": 18,
+    "symbol": "imageFive",
+    "content": "Actualización de estado de Diego Sanchez",
+    "date": "20 set. 2023 a la(s) 11:30"
+  },
+  {
+    "id": 19,
+    "symbol": "imageOne",
+    "content": "Recibiste un pago de Isabel Perez",
+    "date": "21 set. 2023 a la(s) 14:40"
+  },
+  {
+    "id": 20,
+    "symbol": "imageTwo",
+    "content": "Nuevo mensaje de Laura Flores",
+    "date": "10 set. 2023 a la(s) 14:40"
+  }
+]
